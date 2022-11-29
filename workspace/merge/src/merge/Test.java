@@ -10,6 +10,15 @@ public class Test {
 				System.out.println(i + "´Â È¦¼ö");
 			}
 		}
+		
+		//wonhee
+		for(int i = 0; i <= 10; i++) {
+			if(i%2 == 0) {
+				System.out.println("Â¦¼ö : "+i);
+			}else {
+				System.out.println("È¦¼ö : "+i);
+			}
+		}
 	}
 
 }
