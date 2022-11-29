@@ -10,6 +10,8 @@ public class Test {
 				System.out.println(i + "´Â È¦¼ö");
 			}
 		}
+		for(int i=1; i< 11; i++) {
+			System.out.println("minju " + i);
+		}
 	}
-
 }
