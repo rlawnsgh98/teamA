@@ -3,12 +3,13 @@ package merge;
 public class Test {
 	public static void main(String[] args) {
 		for(int i=1; i< 11; i++) {
-			System.out.println("±èÁØÈ£" + i);
+			System.out.println("ï¿½ï¿½ï¿½ï¿½È£" + i);
 			if(i % 2 == 1) {
-				System.out.println(i + "´ÂÂ¦¼ö");
+				System.out.println(i + "ï¿½ï¿½Â¦ï¿½ï¿½");
 			}else if(i % 2 == 0) {
-				System.out.println(i + "´Â È¦¼ö");
+				System.out.println(i + "ï¿½ï¿½ È¦ï¿½ï¿½");
 			}
+			
 		}
 	}
 
