@@ -6,6 +6,7 @@ public class Test {
 //김민주
 		for(int i=1;i<=10;i++) {
 			System.out.println("i"+ i);
+		}
 //김준호
 		for(i=1; i< 11; i++) {
 			System.out.println("����ȣ" + i);
@@ -16,5 +17,5 @@ public class Test {
 			}
 			
 		}
-	}
+	}	
 }
