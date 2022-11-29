@@ -1,4 +1,4 @@
-package java_code_1129;
+package merge;
 
 public class HelloFor {
 
