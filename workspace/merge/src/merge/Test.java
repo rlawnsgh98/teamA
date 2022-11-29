@@ -9,12 +9,6 @@ public class Test {
 		}
 //김준호
 		for(int i=1; i< 11; i++) {
-
-			System.out.println("����ȣ" + i);
-			if(i % 2 == 1) {
-				System.out.println(i + "��¦��");
-			}else if(i % 2 == 0) {
-				System.out.println(i + "�� Ȧ��");
 			System.out.println("김준호" + i);
 			if(i % 2 == 1) {
 				System.out.println(i + "는 짝수다");
@@ -22,10 +16,6 @@ public class Test {
 				System.out.println(i + "는 홀수다");
 			}
 			
-
-			System.out.println("minju " + i);
-
-			}
-		}	
-	}
+		}
+	}	
 }
